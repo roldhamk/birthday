@@ -1,6 +1,5 @@
 import React from "react";
 import { Player, BigPlayButton } from "video-react";
-import vid from "./vid.MP4";
 import "../node_modules/video-react/dist/video-react.css";
 
 export class Video extends React.Component {
